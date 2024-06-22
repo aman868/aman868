@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Md Taqib</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img align="right" alt="coding" width="400" src="<img align="right" alt="coding" width="400" src="https://user- images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<img align="right" alt="coding" width="400" src="<img align="right" alt="coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnVjMmg1em1tc3dqcXIzeWpkbDU0NDY4ejc1bHhnYXc5ZTY5NnM3ayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif">
 
 
 
